@@ -51,3 +51,15 @@ nav a:hover {
     background: rgba(0, 0, 0, 0.6);
     border-radius: 10px ;
 }
+main {
+    padding: 2rem ;
+}
+section {
+    margin-bottom: 3rem ;
+}
+.matches {
+    display: flex ;
+    justify-content: space-around ;
+    align-items: flex-start ;
+    gap: 2rem ;
+}
