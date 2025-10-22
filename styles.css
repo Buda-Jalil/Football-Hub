@@ -92,3 +92,9 @@ section {
     border-radius: 10px ;
     margin-bottom: 0.5rem ;
 }
+.players {
+    display: flex ;
+    justify-content: space-around ;
+    align-items: flex-start ;
+    gap: 2rem ;
+}
