@@ -106,3 +106,9 @@ section {
     width: 250px ;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1) ;
 }
+.player-card img {
+    border-radius: 50% ;
+    width: 100% ;
+    max-width: 150px ;
+    margin-bottom: 1rem ;
+}
