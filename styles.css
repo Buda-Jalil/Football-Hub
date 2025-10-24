@@ -98,3 +98,11 @@ section {
     align-items: flex-start ;
     gap: 2rem ;
 }
+.player-card {
+    background-color: #fff ;
+    border-radius: 10px ;
+
+    padding: 1rem ;
+    width: 250px ;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1) ;
+}
