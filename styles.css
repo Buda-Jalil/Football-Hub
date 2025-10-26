@@ -109,6 +109,13 @@ section {
 .player-card img {
     border-radius: 50% ;
     width: 100% ;
-    max-width: 150px ;
+    max-width: 300px ;
     margin-bottom: 1rem ;
+}
+footer {
+    background-color: rgb(108, 108, 230) ;
+    color: white ;
+    text-align: center ;
+    padding: 1rem ;
+    margin-top: 2rem ;
 }
