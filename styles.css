@@ -140,4 +140,31 @@ footer {
         align-items: center ;
         gap: 1rem ;
     }
+    nav ul {
+        flex-direction: column ;
+        gap: 0.8 ;
+    }
+    nav a {
+        font-size: 1rem ;
+    }
+    .hero {
+        height: 40vh ;
+        padding: 1rem ;
+    }
+    .hero h1 {
+        font-size: 1.8rem ;
+        padding: 0.8rem  1rem ;
+    }
+    .matches {
+        flex-direction: column ;
+        align-items: center ;
+        gap: 1.5rem ;
+    }
+    .match-card {
+        width: 90% ;
+        text-align: center ;
+        
+
+    }
 }
+
