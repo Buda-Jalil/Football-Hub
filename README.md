@@ -1,2 +1,2 @@
 # Football-Hub
-# This project is about football
+# This project is about football.
