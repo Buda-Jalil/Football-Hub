@@ -204,4 +204,22 @@ footer {
     }
 }
 
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.4rem ;
+    }
+    .hero h1 {
+        font-size: 1.5rem ;
+    }
+    .match-card, .player-card, .news-article {
+        width: 95% ;
+    }
+    nav a {
+        font-size: 0.95rem ;
+    }
+    footer {
+        font-size: 0.8rem ;
+    }
+    }
+
 
